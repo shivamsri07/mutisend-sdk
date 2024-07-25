@@ -1,6 +1,3 @@
-Here's a comprehensive markdown for your README.md file:
-
-```markdown
 # BatchTransactionSDK
 
 BatchTransactionSDK is a powerful tool for executing multiple Ethereum transactions in a single batch. It supports both ETH and ERC20 token transfers, provides gas estimation, and offers optimal gas settings based on network congestion.
