@@ -4,7 +4,6 @@ BatchTransactionSDK is a powerful tool for executing multiple Ethereum transacti
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
 - [API Reference](#api-reference)
   - [Constructor](#constructor)
@@ -13,12 +12,6 @@ BatchTransactionSDK is a powerful tool for executing multiple Ethereum transacti
 - [Gas Optimization](#gas-optimization)
 - [Error Handling](#error-handling)
 - [Notes](#notes)
-
-## Installation
-
-```bash
-npm install batch-transaction-sdk
-```
 
 ## Usage
 
